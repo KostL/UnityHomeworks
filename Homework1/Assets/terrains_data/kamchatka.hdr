@@ -1,0 +1,13 @@
+file_title             = kamchatka
+data_format            = ascii
+map_projection         = Lat/Lon
+left_map_x             = 156.384003
+lower_map_y            = 51.230000
+right_map_x            = 157.342773
+upper_map_y            = 51.773998
+number_of_rows         = 654
+number_of_columns      = 1152
+elev_m_unit            = meters
+elev_m_minimum         = -49
+elev_m_maximum         = 2113
+elev_m_missing_flag    = -9999
