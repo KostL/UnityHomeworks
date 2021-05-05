@@ -35,7 +35,7 @@ public class ScoreBoard : MonoBehaviour
             curFrame++;
         }
         UpdateScoreBoard();
-        if (curFrame > 10){
+        if (curFrame == 10){
             curFrame = 0;
             ResetScore();
         }
